@@ -1,12 +1,10 @@
 ## I will be documenting my engineering journey here 🙉
 
 18|
-
-
-19|
-
-
+- Terminal velocity under drag and rocket motion using Newton’s laws in Python.
+  
 20|
+- Simple Rankine Cycle on MATLAB.
 - Aircraft conceptual design with a team of 6 students.
   
   <img width="496" height="305" alt="image" src="https://github.com/user-attachments/assets/e74fcbcf-832b-48fa-8a05-e2eca186c9a5" />
