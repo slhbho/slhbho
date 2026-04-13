@@ -17,4 +17,4 @@
 
 
 
-This our third and final model. We managed to go up the ramp in 20 seconds, but the winner did it in 3.
+This our third and final model. We managed to go up the ramp in 20 seconds, but the winner did it in 3 😃
