@@ -1,4 +1,4 @@
-## I will be documenting my engineering journey here 🌉
+## I will be documenting my engineering journey here 🙉
 
 18|
 
@@ -7,4 +7,5 @@
 
 
 20|
-
+- Aircraft conceptual design.
+  
